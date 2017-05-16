@@ -90,8 +90,10 @@ ul {
 .iconsbottom {
   font-size: 2em !important; display: block;
     color: #B5B5B5;
-    text-align: center;
-    padding: 25px;
+    padding-right:41px;
+  padding-left:23px;
+  padding-top:10px;
+  padding-bottom:10px;
     text-decoration: none;
     font-family: "Arial";
 }
