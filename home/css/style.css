@@ -1,0 +1,26 @@
+body {
+  background:url("https://rickykeyton.github.io/img/Background.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.logo{
+  max-width:90%;
+  object-position:center;
+  margin: 0 auto;
+}
+
+.menuItem{
+  text-align:center;
+ 
+}
+.food {
+  max-width: 50%;
+}
+.load {
+  max-width: 20%;
+  display: block;
+  margin: 0 auto;
+}
+
